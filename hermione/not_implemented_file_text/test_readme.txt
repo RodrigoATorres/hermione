@@ -1,4 +1,4 @@
-﻿# Hermione test files
+# Hermione test files
 
 In this folder, you can develop unit tests for your Data Science project.
 
