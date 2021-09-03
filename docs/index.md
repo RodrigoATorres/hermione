@@ -19,9 +19,9 @@ This is also our way of reinforcing our position that women should be taking mor
 ## Licence
 Hermione is open source and has Apache 2.0 License: [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-```
-.. automodule:: util.py
-    :members:
+```{automodule}
+   util.py
+   :members:
 ```
 
 ```{toctree}
